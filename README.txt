@@ -11,6 +11,7 @@ This project demonstrates the implementation of linear regression using Scikit-L
 
 - `Med Expenses_Linear Regression.ipynb`: Jupyter Notebook containing the code and explanations.
 - `README.md`: This guide explaining the project and its files.
+- 'Notebook PDF': PDF of Jupyter Notebook.
 
 ## Dataset
 
