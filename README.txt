@@ -15,3 +15,7 @@ This project demonstrates the implementation of linear regression using Scikit-L
 ## Dataset
 
 The dataset used in this project can be found [here](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv).
+
+## Note on Interactive Graphs 
+
+Due to GitHub's static rendering of Jupyter Notebooks, interactive Plotly graphs do not display directly. For full visualization, please refer to the included PDF file of the notebook, which contains all plots.
